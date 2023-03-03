@@ -1,0 +1,179 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M768 85.333h-128c-117.821 0-213.333 95.513-213.333 213.333v0 128h-128v170.667h128v341.333h170.667v-341.333h128l42.667-170.667h-170.667v-128c0-23.564 19.103-42.667 42.667-42.667v0h128v-170.667z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "stroke": "rgb(247, 247, 247)",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "facebook_m"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "stroke": "rgb(247, 247, 247)",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        }
+      ],
+      "properties": {
+        "order": 38,
+        "id": 8,
+        "name": "facebook_m",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 10,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M725.333 85.333h-426.667c-117.821 0-213.333 95.513-213.333 213.333v0 426.667c0 117.821 95.513 213.333 213.333 213.333v0h426.667c117.821 0 213.333-95.513 213.333-213.333v0-426.667c0-117.821-95.513-213.333-213.333-213.333v0z",
+          "M682.667 485.12c1.337 8.026 2.102 17.274 2.102 26.701 0 94.257-76.41 170.667-170.667 170.667-86.007 0-157.155-63.62-168.95-146.367l-0.106-0.91c-1.025-7.027-1.61-15.14-1.61-23.39 0-94.257 76.41-170.667 170.667-170.667 84.83 0 155.205 61.891 168.432 142.981l0.133 0.985zM746.667 277.333h0.512"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "stroke": "rgb(247, 247, 247)",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(247, 247, 247)",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "instagram_m"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "stroke": "rgb(247, 247, 247)",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(247, 247, 247)",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        }
+      ],
+      "properties": {
+        "order": 39,
+        "id": 7,
+        "name": "instagram_m",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 10,
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [
+          "M981.333 128c-38.405 27.403-82.897 49.65-130.678 64.404l-3.295 0.876c-35.233-40.356-86.771-65.709-144.231-65.709-105.567 0-191.147 85.579-191.147 191.147 0 0.901 0.006 1.8 0.019 2.698l-0.001-0.136v42.667c-3.512 0.097-7.644 0.153-11.79 0.153-153.286 0-288.861-75.829-371.26-192.021l-0.95-1.411s-170.667 384 213.333 554.667c-78.147 53.677-174.795 85.726-278.928 85.726-6.942 0-13.851-0.142-20.723-0.425l0.984 0.032c384 213.333 853.333 0 853.333-490.667 0-11.904-1.195-23.723-3.413-35.413 42.325-41.757 73.383-94.832 88.266-154.317l0.481-2.27z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "stroke": "rgb(247, 247, 247)",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 64
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "twitter_m"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "stroke": "rgb(247, 247, 247)",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 64
+        }
+      ],
+      "properties": {
+        "order": 40,
+        "id": 6,
+        "name": "twitter_m",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 10,
+      "iconIdx": 5
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
