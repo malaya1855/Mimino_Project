@@ -1,5 +1,9 @@
-body {background-color: tomato;}
-
+.section-room {
+    background-color: #fff;
+}
+.room-flex{
+    display: flex;
+}
 .icon {
     stroke: #f7f7f7;
 }
